@@ -93,5 +93,9 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# My stuff
+brew install python2
+
+
 # Remove outdated versions from the cellar.
 brew cleanup
